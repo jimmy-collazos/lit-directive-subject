@@ -1,0 +1,41 @@
+{
+  "name": "lit-directive-subject",
+  "version": "0.0.1",
+  "description": "Lit HTML directive for update your partial template",
+  "main": "./lit-directive-subject.js",
+  "module": "./lit-directive-subject.js",
+  "type": "module",
+  "author": {
+    "email": "jimmy.collazos@gmail.com",
+    "name": "Jimmy Collazos"
+  },
+  "license": "GPL-3.0",
+  "peerDependencies": {
+    "lit-html": "^1.3.0"
+  },
+  "files": [
+    "lit-directive-subject.js",
+    "lit-directive-subject.d.ts",
+    "README",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmy-collazos/lit-directive-subject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jimmy-collazos/lit-directive-subject/issues"
+  },
+  "homepage": "https://github.com/jimmy-collazos/lit-directive-subject#README",
+  "keywords": [
+    "lit-html",
+    "lit",
+    "webcomponents",
+    "customelements",
+    "lit-element",
+    "template",
+    "subject",
+    "subject-directive"
+  ],
+  "types": "lit-directive-subject.d.ts"
+}
