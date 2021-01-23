@@ -1,6 +1,6 @@
 {
   "name": "lit-directive-subject",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a directive of lit-html for update (async mode) parts of your template. Change any part of your template without re-rendering",
   "main": "./lit-directive-subject.js",
   "module": "./lit-directive-subject.js",
