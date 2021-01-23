@@ -1,8 +1,8 @@
 import {directive} from 'lit-html';
 
 export class SubjectPartial {
-  // value;
-  // #__isCommited = false;
+  value;
+  #__isCommited = false;
   constructor(){
     this.part = directive(() => (part) => {
       this.commit = () => part.commit();

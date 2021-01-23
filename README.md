@@ -7,6 +7,8 @@
 
 This is a directive of [lit-html](https://lit-html.polymer-project.org/) for update (async mode) [parts](https://lit-html.polymer-project.org/api/interfaces/_lit_html_.part.html) of your template. Change any part of your template without re-rendering.
 
+[🔗 See the demo](https://stackblitz.com/edit/lit-directive-subject-demo?file=index.js)
+
 ## Installation
 
 Install from [NPM](https://www.npmjs.com/package/lit-directive-subject) or use from [Unpkg](https://unpkg.com/lit-directive-subject) CDN
